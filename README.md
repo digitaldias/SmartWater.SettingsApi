@@ -6,7 +6,8 @@ Suggested way to read the code:
 
 - Clone or download the project to your local computer
 - Double-click on the *SmartWater.SettingsApi.Sln* file to open it up in Visual Studio
-- Expand the *10 Presentation Layer* folder, and then the **SmartWater.SettingsApi** project
+- Right-click on the Solution and choose the **Restore NuGet Packages** option
+- Expand the *10 Presentation Layer* folder, and then the *SmartWater.SettingsApi* project
 - Expand *Controllers* and look at the *TenantController.cs* class
 
 From here, you should be able to follow the code vertically. You will find relevant test-classes paired next to their respective class libraries. 
